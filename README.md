@@ -12,8 +12,13 @@ Project Duration: ~47 hours
 
 🛠️ Tech Stack
 Java 11 – Core programming language for application logic and CLI interface.
+
 SQL Server (Azure SQL) – Relational database used to store flights, users, and reservations.
+
 JDBC – Java Database Connectivity used to securely interact with the Azure SQL database.
+
 Maven – Build and dependency management tool for compiling and packaging the application.
+
 VSCode – Recommended IDE for development, especially with remote access to attu.
+
 Azure – Cloud platform hosting the SQL Server instance for persistent storage.
