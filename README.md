@@ -10,7 +10,8 @@ Email for link: yashk.verma23@uw.edu
 
 Project Duration: ~47 hours
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
+
 Java 11 – Core programming language for application logic and CLI interface.
 
 SQL Server (Azure SQL) – Relational database used to store flights, users, and reservations.
